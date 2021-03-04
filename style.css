@@ -3,7 +3,7 @@ html {
   width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
-  background: url(https://images.squarespace-cdn.com/content/5458cc40e4b00a1e2aac4082/1588163901620-EQGYDK7R564HTJTZ37O1/sunset+provision+Screenshot+2019-04-26+at+13.43.53-1.jpg) no-repeat center center fixed; 
+  background: url('https://images.squarespace-cdn.com/content/5458cc40e4b00a1e2aac4082/1588163901620-EQGYDK7R564HTJTZ37O1/sunset+provision+Screenshot+2019-04-26+at+13.43.53-1.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
